@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=\"\" tvg-name=\"GAME OF THRONES S01 E01\" tvg-logo=\"https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrGWeW4WKxnaeA8sxJb2T9O6ryo.jpg\" group-title=\"TEMPORADA 1\",GAME OF THRONES S01 E01 http://tv.cablestream.io:25462/series/Dexter/1234/33549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrGWeW4WKxnaeA8sxJb2T9O6ryo.jpg" group-title="TEMPORADA 1",GAME OF THRONES S01 E01
+http://tv.cablestream.io:25462/series/Dexter/1234/33549.mkv
